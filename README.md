@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 
 [beihu-stack](https://github.com/beihu-stack) 是友人 [zjz6b6](https://github.com/zjz6b6) 大佬创立的组织，旨在打磨技术，深入学习感兴趣的东西。
 
-最近在 [ruoyi](https://doc.ruoyi.vip/) 基础上进行二开，整合 [Mabits-Plus](https://mp.baomidou.com/)，汲取 [jhipster](https://www.jhipster.tech/) 中好的东西，打造一个适合自己的框架 :v: 。
