@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a title="Hits" target="_blank" href="https://github.com/GlacierBo/hits"><img src="https://hits.b3log.org/GlacierBo/hits.svg"></a>
 
 <!--
 **GlacierBo/GlacierBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
